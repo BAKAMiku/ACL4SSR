@@ -25,6 +25,16 @@
 [outbound_block_list]
 # 禁止访问列表
 
+(^|\.)sf058\.cn$
+(^|\.)ktvgz\.cn$
+(^|\.)09mk\.cn$
+(^|\.)wgewj\.cn$
+(^|\.)sjzmmd\.cn$
+(^|\.)118ex\.cn$
+(^|\.)113ex\.cn$
+(^|\.)lusrg\.cn$
+(^|\.)itc\.cn$
+
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
 (^|\.)\w*admaster\w*\..*$
