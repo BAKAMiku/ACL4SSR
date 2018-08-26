@@ -1542,6 +1542,22 @@
 (^|\.)\w*xiami\w*\.\w*$
 (^|\.)\w*xiaomi\w*\.\w*$
 
+# add
+(^|\.)cordcloud\.me$
+(^|\.)fixer\.io$
+(^|\.)bing\.com$
+(^|\.)airbnb\.com$
+(^|\.)devmate\.com$
+(^|\.)tinify\.com$
+(^|\.)iina\.io$
+(^|\.)cnbtkitty\.xyz$
+(^|\.)zmzjstu\.com$
+(^|\.)zmzapi\.com$
+(^|\.)zmzfile\.com$
+(^|\.)zmzapi\.net$
+(^|\.)white-plus\.net$
+(^|\.)dm530\.net$
+
 # Blizzard
 (^|\.)battle\.net$
 (^|\.)battlenet\.com$
