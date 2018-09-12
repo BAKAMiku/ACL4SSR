@@ -1543,6 +1543,7 @@
 (^|\.)\w*xiaomi\w*\.\w*$
 
 # add
+(^|\.)dlercloud\.com$
 (^|\.)cordcloud\.me$
 (^|\.)fixer\.io$
 (^|\.)bing\.com$
